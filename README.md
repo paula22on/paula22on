@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Computer Vision projects.
-- 🌱 I’m currently learning everything I can about AI
+- 🌱 I’m currently learning everything I can about AI.
 - 📫 How to reach me: 22paula99@gmail.com
 - ⚡ Fun fact: I love cheese and chocolate
 
