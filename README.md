@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on AI projects.
-- 🌱 I’m currently learning everything I can about programming and the tech industry.
+- 🔭 Working on AI projects.
+- 🌱 Currently learning everything I can about programming and the tech industry.
 - 📫 How to reach me: paulaosesnoguero@gmail.com
 
 
